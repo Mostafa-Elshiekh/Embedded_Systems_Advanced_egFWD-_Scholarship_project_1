@@ -11,7 +11,7 @@ Provide a screenshot of your COTS folder with the stated arrangement
 ## Implement the GPIO driver
 
 > 1-Create the GPIO driver from scratch using the sufficient interface,configure,private and program files
-2-Create functions in GPIO driver that are needed to perform the required project functionality
+> 2-Create functions in GPIO driver that are needed to perform the required project functionality
 Provide a screen recording of GPIO driver, explaining its functions and Macros, and how each function will help to achieve the functionality of the project (Maximum 3 minutes)
 
 ## Implement Timer driver
