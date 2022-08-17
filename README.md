@@ -2,7 +2,7 @@
 Control blinking of an LED for a user-defined ON and OFF periods  Create a function in the App layer that takes as an input from the user a specific ON time and OFF time in seconds, lights a LED for the given ON time, and dim it for the given OFF time. It’s prohibited to use predefined delay functions, only timer driver functions can be used. This function implements implicitly the PWM module using Timer Overflow.
 
 
-##Prepare project folders
+## Prepare project folders
 
 Create a COTS folder for the whole course including a folder for each layer in the layered architectureto include MCAL,HAL,SERVICE,APPLICATION and LIBRARIES
 
@@ -10,7 +10,7 @@ Provide a screenshot of your COTS folder with the stated arrangement
 
 ## Implement the GPIO driver
 
-1-Create the GPIO driver from scratch using the sufficient interface,configure,private and program files
+> 1-Create the GPIO driver from scratch using the sufficient interface,configure,private and program files
 2-Create functions in GPIO driver that are needed to perform the required project functionality
 Provide a screen recording of GPIO driver, explaining its functions and Macros, and how each function will help to achieve the functionality of the project (Maximum 3 minutes)
 
