@@ -8,13 +8,13 @@ Create a COTS folder for the whole course including a folder for each layer in t
 
 Provide a screenshot of your COTS folder with the stated arrangement
 
-##Implement the GPIO driver
+## Implement the GPIO driver
 
 1-Create the GPIO driver from scratch using the sufficient interface,configure,private and program files
 2-Create functions in GPIO driver that are needed to perform the required project functionality
 Provide a screen recording of GPIO driver, explaining its functions and Macros, and how each function will help to achieve the functionality of the project (Maximum 3 minutes)
 
-##Implement Timer driver
+## Implement Timer driver
 
 1-Create the Timer driver from scratch using the sufficient interface,configure,private and program files
 2-Create functions in Timer driver that are needed to perform the required project functionality
@@ -22,12 +22,12 @@ Provide a screen recording of GPIO driver, explaining its functions and Macros, 
 Passing the ISR as a callback function from App Layer to Timer driver in MCAL layer
 Provide a screen recording of TIMER driver, explaining its functions and Macros, and how each function will help to achieve the functionality of the project (Maximum 4 minutes)
 
-##Implement interrupt driver
+## Implement interrupt driver
 
 1-Creating the Interrupt driver from scratch using the sufficient interface,configure,private and program files
 2-Create functions in Interrupt driver that are needed to perform the required project functionality
 Provide a screen recording of Interrupt driver, explaining its functions and Macros, and how each function will help to achieve the functionality of the project (Maximum 2 minutes)
 
-##Test your application
+## Test your application
 
 1-Deliver a screen recording of your code (main.c), and run it while showing the Tiva C board simulator showing how the LED status would vary by changing the ON/OFF time in runtime. (Maximum 3 minutes)
